@@ -1,7 +1,13 @@
 
 const CustomerReviews = () => {
   return (
-    <div>CustomerReviews</div>
+    <section classNt Our ame ="max-container">
+      <h3>
+        What Our
+      </h3>
+      <span>Customers</span>
+      Say?
+    </section>
   )
 }
 
