@@ -1,4 +1,5 @@
 import Button from "../components/Button";
+import { shoe8 } from "../assets/images";
 import { arrowRight } from "../assets/icons";
 
 const SuperQuality = () => {
@@ -28,7 +29,7 @@ const SuperQuality = () => {
           alt="image of shoe8"
           width={570}
           height={522}
-          className="mt-2 rounded-full w-5 h-5"
+          className="object-contain"
         />
       </div>
 
